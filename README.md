@@ -28,7 +28,7 @@ cd GRN-Hunter
 
 python Zhunter.py
 
-# Done ✅ Enjoy The Tool 💓
+# Done ✅
 
 # CONTACT WITH ME ON 👇
 
